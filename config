@@ -188,3 +188,4 @@ bar {
 
 exec --no-startup-id export GTK_THEME=Adwaita:dark
 exec --no-startup-id export QT_QPA_PLATFORMTHEME=qt5ct
+exec --no-startup-id feh --bg-fill ~/Pictures/forestBG.png
